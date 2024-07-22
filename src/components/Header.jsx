@@ -53,9 +53,9 @@ export default function Header() {
                 </div>
                 <HamburgerMenu/>
             </nav>
-            <a target="_blank" href="https://app-staging.flyingraccoon.tech"
+            <a target="_blank" href="https://wellfound.com/company/raccoon-ai/jobs"
                className="button hidden mr-8 text-n-1/50 transition-colors hover:text-n-1 lg:block">
-                Sign In
+                Careers
             </a>
             <a target="_blank" href="https://calendly.com/flyingraccoon/discovery-demo">
                 <Button className="hidden lg:flex">
